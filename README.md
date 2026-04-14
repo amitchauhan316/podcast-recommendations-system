@@ -26,4 +26,4 @@ It demonstrates the implementation of a recommendation system along with a compl
 - Integrate cloud database  
 
 ## 🔗 GitHub
-https://github.com/Sheth3433/podcast-recommendations-system
+[https://github.com/amitchauhan316/podcast-recommendations-system]
